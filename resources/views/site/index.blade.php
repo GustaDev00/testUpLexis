@@ -37,7 +37,7 @@
 
     @else
     <script>
-        alert("hello");
+        alert("Não foi encontrado");
     </script>
     @endif
 
